@@ -1,4 +1,4 @@
-# CreatorX3
+# CreatorX3 - Polkadot Hackathon 2024
 ![image](https://github.com/AbhiDev3/CreatorX/assets/132817669/0ad978b5-0626-4d77-b723-d67a01210ffa)
 
 ## Product Overview
