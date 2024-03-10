@@ -6,6 +6,8 @@
 CreatorX3 establishes a blockchain base for X.com. Users can seamlessly log in via their X.com accounts, and our system employs MPC wallet technology to generate a new wallet for each user under the hood. This ensures that users do not need to import any private keys on our platform while still enabling them to interact with the blockchain.
 ![image](https://github.com/AbhiDev3/CreatorX/assets/132817669/d41d7c7c-1ffe-43b7-8d3c-27fa99ad9b6c)
 
+**Video Demo:** https://youtu.be/xC-4Lx2kuHc
+
 ## Features
 
 ### MPC Wallet Integration
